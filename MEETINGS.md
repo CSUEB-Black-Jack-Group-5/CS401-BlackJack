@@ -10,5 +10,5 @@
 | 03/14/2025 | Des   | Riley, Martin                        | 12:45pm - 2:00pm                    | Started working on a design document and putting our top use cases in. For the time being it is located on google docs                                                   |   |
 | 03/18/2025 | Des   | Riley, Martin, Michelle, Basim, John | 1:15pm - 2:30pm                     | Played a bit of blackjack with each other online to get inspiration 
 | 03/20/2025 | Des   | Martin, Michelle                     | 9:30am - 10:40am                    | Worked on network design, data storage method, game flow use cases                                                                                                       |
-| 03/26/2025 | Des   | Martin, Basim, John                     | 9:00 am - 9:30 am                    | Assigned eachother work to complete by next meeting.        |
+| 03/26/2025 | Des   | Martin, Basim, John                  | 9:00 am - 9:30 am                   | Assigned eachother work to complete by next meeting                                                                                                       |
 
