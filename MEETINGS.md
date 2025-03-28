@@ -11,4 +11,5 @@
 | 03/18/2025 | Des   | Riley, Martin, Michelle, Basim, John | 1:15pm - 2:30pm                     | Played a bit of blackjack with each other online to get inspiration                                                                                                      |
 | 03/20/2025 | Des   | Martin, Michelle                     | 9:30am - 10:40am                    | Worked on network design, data storage method, game flow use cases                                                                                                       |
 | 03/26/2025 | Des   | Martin, Basim, John                  | 9:00 am - 9:30 am                   | Assigned eachother work to complete by next meeting                                                                                                                      |
+| 03/28/2025 | Des   | Martin, Riley                        | 3:15 pm - 4:30 pm                   | Worked on the UML class diagrams, discussed some interactions between the classes, no changes to design doc                                                              |
 
