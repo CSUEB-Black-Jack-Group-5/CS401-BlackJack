@@ -12,4 +12,4 @@
 | 03/20/2025 | Des   | Martin, Michelle                     | 9:30am - 10:40am                    | Worked on network design, data storage method, game flow use cases                                                                                                       |
 | 03/26/2025 | Des   | Martin, Basim, John                  | 9:00 am - 9:30 am                   | Assigned eachother work to complete by next meeting                                                                                                                      |
 | 03/28/2025 | Des   | Martin, Riley                        | 3:15 pm - 4:30 pm                   | Worked on the UML class diagrams, discussed some interactions between the classes, no changes to design doc                                                              |
-
+| 04/02/2025 | Des   | Martin, Riley, Michelle              | 9:30 am - 12:41 pm                  | Martin Goal: Get use case diagrams filled in a bit more. Cleaned up the UML, and filled in some critical gaps. Worked on a timeline and divying out work to each of us.  |
