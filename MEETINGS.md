@@ -19,3 +19,5 @@
 | 04/09/2025 | Des   | Riley, Martin, Michelle, Basim       | 5:20 pm - 6:00pm                    | Discussed presentation tactics, assigned slides to group members, briefly talked about how we'd transition to implementation |
 | 04/10/2025 | Des   | Riley, Martin, Michelle, John, Basim | 9:30 am - 10:30pm                   | Added final touches to the Design Doc (i.e. use case diagrams, sequence diagrams, etc) |
 | 04/11/2025 | Impl  | Riley, Martin, Michelle, John, Basim | 9:30 am - 10:30pm                   | Briefed the group on github and how PRs work to get ready for the sprint. |
+| 04/16/2025 | Impl  | Riley, Martin                        | 2:00 pm - 3:15pm                    | Went over some server code and talked about a few parts of the design that we overlooked/oversimplified. Namely how to actually distinguish between player and dealer on login. |
+| 04/17/2025 | Impl  | Riley, Martin, Michelle, John, Basim | 9:30 am - 11:00am                   | Full group meeting going over implementation, github, git, new trello board, and made a few PRs |
