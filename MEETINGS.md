@@ -21,3 +21,5 @@
 | 04/11/2025 | Impl  | Riley, Martin, Michelle, John, Basim | 9:30 am - 10:30pm                   | Briefed the group on github and how PRs work to get ready for the sprint. |
 | 04/16/2025 | Impl  | Riley, Martin                        | 2:00 pm - 3:15pm                    | Went over some server code and talked about a few parts of the design that we overlooked/oversimplified. Namely how to actually distinguish between player and dealer on login. |
 | 04/17/2025 | Impl  | Riley, Martin, Michelle, John, Basim | 9:30 am - 11:00am                   | Full group meeting going over implementation, github, git, new trello board, and made a few PRs |
+| 04/19/2025 | Impl  | Riley, Basim | 3:00pm - 4:00pm                   | Talked with basim about his dealer class, and helped him get the new folder structure in place with tests |
+
