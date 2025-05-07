@@ -14,7 +14,3 @@ This repository contains the project planning and design documents for the **CS-
 ## 📌 Purpose
 
 This repo serves as the central location for all non-code and code documents associated with the CS401 Group 5 Blackjack Game project.
-
----
-
-> For implementation details and how to run the actual game, see the [Implementation/README.md](./Implementation/README.md).
