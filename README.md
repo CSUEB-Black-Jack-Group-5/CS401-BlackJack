@@ -6,8 +6,6 @@ This repository contains the project planning and design documents for the **CS-
 
 - `RequirementPhase/` – Early planning, brainstorming, and requirement gathering  
 - `Design/` – UML diagrams, GUI sketches, design phase notes  
-- `Implementation/` – Source code directory (see inner README for technical details)  
-- `README.md` – This file  
 - `MEETINGS.md` – Notes from team sync-ups  
 - `GITHELPER.md` – Setup/help for teammates on Git workflow  
 
